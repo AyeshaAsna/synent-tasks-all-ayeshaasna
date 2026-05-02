@@ -1,0 +1,15 @@
+,count,unique,top,freq,mean,min,25%,50%,75%,max,std
+show_id,8807,8807,s1,1,,,,,,,
+type,8807,2,Movie,6131,,,,,,,
+title,8807,8807,Dick Johnson Is Dead,1,,,,,,,
+director,6173,4528,Rajiv Chilaka,19,,,,,,,
+cast,7982,7692,David Attenborough,19,,,,,,,
+country,7976,748,United States,2818,,,,,,,
+date_added,8709,,,,2019-05-23 01:45:29.452290,2008-01-01 00:00:00,2018-04-20 00:00:00,2019-07-12 00:00:00,2020-08-26 00:00:00,2021-09-25 00:00:00,
+release_year,8807.0,,,,2014.1801975701146,1925.0,2013.0,2017.0,2019.0,2021.0,8.819312130833966
+rating,8803,17,TV-MA,3207,,,,,,,
+duration,8804,220,1 Season,1793,,,,,,,
+listed_in,8807,514,"Dramas, International Movies",362,,,,,,,
+description,8807,8775,"Paranormal activity at a lush, abandoned property alarms a group eager to redevelop the site, but the eerie events may not be as unearthly as they think.",4,,,,,,,
+duration_num,8804.0,,,,69.84688777828259,1.0,2.0,88.0,106.0,312.0,50.81482778918896
+year_added,8709.0,,,,2018.8879320243427,2008.0,2018.0,2019.0,2020.0,2021.0,1.5679605925583968

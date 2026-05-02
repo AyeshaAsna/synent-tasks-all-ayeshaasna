@@ -1,0 +1,12 @@
+Customer Churn Model Evaluation
+===================================
+Accuracy: 0.7814
+
+              precision    recall  f1-score   support
+
+           0       0.82      0.90      0.86      1035
+           1       0.62      0.47      0.53       374
+
+    accuracy                           0.78      1409
+   macro avg       0.72      0.68      0.69      1409
+weighted avg       0.77      0.78      0.77      1409

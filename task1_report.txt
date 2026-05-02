@@ -1,0 +1,71 @@
+Task 1: Titanic Data Cleaning Report
+==========================================
+
+Input file: D:\synent_tech_internship\datasets\titanic.csv
+Output file: D:\synent_tech_internship\tasks\task1\clean_titanic.csv
+
+Original shape: (1309, 28)
+Final shape: (1309, 28)
+
+Duplicate rows before: 0
+Duplicate rows after: 0
+
+Missing values before cleaning:
+Passengerid    0
+Age            0
+Fare           0
+Sex            0
+sibsp          0
+zero           0
+zero.1         0
+zero.2         0
+zero.3         0
+zero.4         0
+zero.5         0
+zero.6         0
+Parch          0
+zero.7         0
+zero.8         0
+zero.9         0
+zero.10        0
+zero.11        0
+zero.12        0
+zero.13        0
+zero.14        0
+Pclass         0
+zero.15        0
+zero.16        0
+Embarked       2
+zero.17        0
+zero.18        0
+2urvived       0
+
+Missing values after cleaning:
+passengerid    0
+age            0
+fare           0
+sex            0
+sibsp          0
+zero           0
+zero.1         0
+zero.2         0
+zero.3         0
+zero.4         0
+zero.5         0
+zero.6         0
+parch          0
+zero.7         0
+zero.8         0
+zero.9         0
+zero.10        0
+zero.11        0
+zero.12        0
+zero.13        0
+zero.14        0
+pclass         0
+zero.15        0
+zero.16        0
+embarked       0
+zero.17        0
+zero.18        0
+2urvived       0

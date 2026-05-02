@@ -1,0 +1,12 @@
+Task 3: Netflix EDA Insights
+==============================
+
+Dataset rows: 8807
+Dataset columns: 14
+Most titles were added in year: 2019.0 (1999 titles)
+Generated artifacts:
+- summary_statistics.csv
+- correlation_matrix.csv
+- correlation_heatmap.png
+- trend_titles_by_year.png
+- type_distribution.png

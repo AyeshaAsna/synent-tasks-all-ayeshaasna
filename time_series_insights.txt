@@ -1,0 +1,7 @@
+Task 7: Time Series Analysis Insights
+====================================
+
+Index analyzed: NSEI
+Records used: 3346
+Latest close price: 15582.80
+Average close price: 7660.05

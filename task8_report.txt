@@ -1,0 +1,12 @@
+Task 8: Machine Learning Model Report
+========================================
+
+Dataset: D:\synent_tech_internship\datasets\housing\housing.csv
+
+Model Evaluation:
+            model         rmse       r2
+    Random Forest 48781.911007 0.818402
+Linear Regression 70059.193339 0.625438
+
+Best Model: Random Forest
+Sample Prediction: 50921.00

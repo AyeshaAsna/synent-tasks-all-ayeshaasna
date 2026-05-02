@@ -1,0 +1,14 @@
+Task 6: Customer Segmentation Insights
+======================================
+
+Features used: Annual Income (k$), Spending Score (1-100)
+Number of clusters: 5
+
+Cluster-wise average profile:
+         Annual Income (k$)  Spending Score (1-100)
+Cluster                                            
+0                     55.30                   49.52
+1                     86.54                   82.13
+2                     25.73                   79.36
+3                     88.20                   17.11
+4                     26.30                   20.91
