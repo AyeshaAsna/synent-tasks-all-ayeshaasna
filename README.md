@@ -9,6 +9,25 @@ This repository contains all 9 tasks completed as part of the Synent Data Scienc
 Each task demonstrates different stages of the data science lifecycle including data cleaning, visualization, analysis, machine learning, and deployment.
 
 ---
+Task1 - https://github.com/AyeshaAsna/synent-task1-datacleaning-ayeshaasna.git
+
+Task2 - https://github.com/AyeshaAsna/synent-task2-dataviz-ayeshaasna.git
+
+Task3 - https://github.com/AyeshaAsna/synent-task3-netflixeda-ayeshaasna.git
+
+Task4 - https://github.com/AyeshaAsna/synent-task4-dashboard-ayeshaasna.git
+
+Task5 - https://github.com/AyeshaAsna/synent-task5-salesanalysis-ayeshaasna.git
+
+Task6 - https://github.com/AyeshaAsna/synent-task6-clustering-ayeshaasna.git
+
+Task7 - https://github.com/AyeshaAsna/synent-task7-timeseries-ayeshaasna.git
+
+Task8 - https://github.com/AyeshaAsna/synent-task8-mlmodel-ayeshaasna.git
+
+Task9 - https://github.com/AyeshaAsna/synent-task9-churnprediction-ayeshaasna.git
+
+---
 
 ## 🧠 Tasks Summary
 
